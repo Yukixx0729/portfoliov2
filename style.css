@@ -274,6 +274,10 @@ footer [class*="fa-"] {
   }
 }
 
+#projects .language {
+  margin-top: 1rem;
+}
+
 @media (min-width: 850px) {
   nav {
     max-width: 1200px;
