@@ -215,6 +215,7 @@ footer [class*="fa-"] {
   font-size: 1rem;
   line-height: 1.5;
   margin-top: 2rem;
+  text-align: left;
 }
 
 #projects ul {
